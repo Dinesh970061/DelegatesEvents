@@ -1,0 +1,7 @@
+C:\Users\Dinesh.Nallagachu\source\repos\Degelate\Degelate\bin\Debug\Degelate.exe.config
+C:\Users\Dinesh.Nallagachu\source\repos\Degelate\Degelate\bin\Debug\Degelate.exe
+C:\Users\Dinesh.Nallagachu\source\repos\Degelate\Degelate\bin\Debug\Degelate.pdb
+C:\Users\Dinesh.Nallagachu\source\repos\Degelate\Degelate\obj\Debug\Degelate.csprojAssemblyReference.cache
+C:\Users\Dinesh.Nallagachu\source\repos\Degelate\Degelate\obj\Debug\Degelate.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh.Nallagachu\source\repos\Degelate\Degelate\obj\Debug\Degelate.exe
+C:\Users\Dinesh.Nallagachu\source\repos\Degelate\Degelate\obj\Debug\Degelate.pdb
